@@ -35,16 +35,16 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 
 
 
-<div align="left">
+<div align="left" >
   <a href="https://linkedin.com/in/sahan-dilshan-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:sahandilshan.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+   <a href="https://github.com/Sahan-Dil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  </a>
 </div>
 
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sahan-dilshan-profile) [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:sahandilshan.contact@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Sahan-Dil)
