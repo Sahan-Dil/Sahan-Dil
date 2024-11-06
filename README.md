@@ -13,8 +13,7 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 
 ## 🛠️ **Skills**
 
-- **Languages:** TypeScript, JavaScript, Java, C++, C#, Python
-- **Web Technologies:** React.js, Next.js, Node.js, HTML5, CSS3, PHP, Spring Boot, Flask, ASP.NET Core
+- **Languages & Technologies:** TypeScript, JavaScript, Java, C++, C#, Python, React.js, Next.js, Node.js, HTML5, CSS3, PHP, Spring Boot, Flask, ASP.NET Core
 - **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j, Redis, DynamoDB, Firebase
 - **Cloud & DevOps:** AWS, GCP, Docker
 
