@@ -38,18 +38,32 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 <div align="left" >
   <a href="https://linkedin.com/in/sahan-dilshan-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sahandilshan.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/Sahan-Dil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sahandilshan.vercel.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="ie10 logo"  />
   </a>
 </div>
 
+<p align="left">
+  <a href="https://linkedin.com/in/sahan-dilshan-profile" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    LinkedIn
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sahandilshan.contact@gmail.com" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    Email
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Sahan-Dil" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    GitHub
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sahandilshan.vercel.app" target="_blank" style="text-decoration: none;">
+    Portfolio
+  </a>
+</p>
 
 
 
