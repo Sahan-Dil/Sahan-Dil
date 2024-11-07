@@ -19,7 +19,7 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 ## 🛠️ **Skills**
 
 ### **Languages & Technologies**
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px 0; flex-direction: row">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px 0; flex-direction: row; background:red">
   <div align="center" style="display: inline-flex; gap: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
     <span>TypeScript</span>
