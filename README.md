@@ -19,7 +19,7 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 ## 🛠️ **Skills**
 
 - **Languages & Technologies:** TypeScript, JavaScript, Java, C++, C#, Python, React.js, Next.js, Node.js, HTML5, CSS3, PHP, Spring Boot, Flask, ASP.NET Core
-<div align="center">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -55,13 +55,36 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
 </div>
 
-###
-
+---
 
 - **Databases:** MySQL, PostgreSQL, MongoDB, Neo4j, Redis, DynamoDB, Firebase
-- **Cloud & DevOps:** AWS, GCP, Docker
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+</div>
 
 ---
+
+- **Cloud & DevOps:** AWS, GCP, 
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+</div>
+
 
 ## 🎓 **Education**
 
@@ -73,34 +96,41 @@ I am a self-motivated full-stack developer skilled in cloud technologies, includ
 ## 📞 **Contact**
 
 
-
-<div align="left" >
+<div align="center" >
   <a href="https://linkedin.com/in/sahan-dilshan-profile" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
   <a href="mailto:sahandilshan.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
    <a href="https://github.com/Sahan-Dil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
   <a href="https://sahandilshan.vercel.app" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="40" alt="ie10 logo"  />
+    <img width="80" />
   </a>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/sahan-dilshan-profile" target="_blank" style="text-decoration: none; margin-right: 30px;">
     LinkedIn
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
   <a href="mailto:sahandilshan.contact@gmail.com" target="_blank" style="text-decoration: none; margin-right: 30px;">
     Email
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
   <a href="https://github.com/Sahan-Dil" target="_blank" style="text-decoration: none; margin-right: 30px;">
     GitHub
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="80" />
+  </a>
   <a href="https://sahandilshan.vercel.app" target="_blank" style="text-decoration: none;">
     Portfolio
+    <img width="80" />
   </a>
 </p>
 
